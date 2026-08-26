@@ -14,6 +14,11 @@ public class Robot
         estaEncendido = true;
     }
 
+    public void apagar()
+    {
+        estaEncendido = false;
+    }
+
 
     
 
