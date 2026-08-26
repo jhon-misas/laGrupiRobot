@@ -9,6 +9,12 @@ public class Robot
         return estaEncendido;
     }
 
+    public void encender()
+    {
+        estaEncendido = true;
+    }
+
+
     
 
 
